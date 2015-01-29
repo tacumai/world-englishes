@@ -1,4 +1,6 @@
-# 言語コミュニケーション
+# About World Englishes
+言語学的観点からみた各国の英語の様々な変容とその特徴についてのまとめ
+
 ## アメリカ英語(Ch.4)
 ## イギリス英語(Ch.5)
 ## オーストラリア英語（Ch.6)
@@ -50,10 +52,21 @@
 - 英語はstress timedであり、ストレスの強弱を持つ。一方で日本語はすべての音が同じ長さ・トーンで話されるのでsilable timedと位置づけられている。
 
 ## 各varietiesの略称
-- ISAE : Indian South African English
-- BSAE : Black South African English
+- BAV     : Black English Vernacular
+- Ebonics : 黒人英語という意味。特に差別的な用語。
+- WAEV    : White American English Vernacular
+- GA      : General American
+- MUSE    : Mainstream US English
+- AEV     : African English Vernacular
+- AAE     : African Amerian English
+- AAVE    : African American Vernacular English
+- ISAE    : Indian South African English
+- BSAE    : Black South African English
 
 ## 専門用語
+- IPA : International Phonetic Alphabet
+- Vernacular : 話し言葉
+- acrinym : 頭字語(ISISみたいなやつ)
 - Article : 冠詞(a)
 - Determiner : 決定詞(the)
 - inflectional endings : 接尾辞
