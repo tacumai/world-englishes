@@ -42,7 +42,7 @@ SAE話者は基本的に性別や年齢、ステータスを気にしないの�
 アメリカでは"How are you doing?"っていったりするけどオーストラリアでは"How are you going?"という。!"How are you?"が質問ではなく、調子を訪ねているのと同じように"How are you going?"は行き方を聞いているのではなくて、挨拶しているだけなので気をつけよう。
 
 
-### Australian Aboriginal Englishについて
+# Australian Aboriginal Englishについて
 アボリジニの人たちはもともとAboriginal Languageを使ったいたんだけど、英語が入ってきて、だんだんと英語をアボリジニ同士たちのLingafrancaとして使うようになり、自分たち特有の言語を消滅されるほど使わなくなった。まぁでも皮肉にもアボリジニたちが使う英語はAustralian Aboriginal English(AAE)として確立し、発展していった。
 
 ## 文法的特徴
