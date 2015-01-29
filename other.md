@@ -11,6 +11,7 @@
 - WAEV    : White American English Vernacular
 - GA      : General American
 - MUSE    : Mainstream US English
+- SAE     : Standard Australian English
 - AEV     : African English Vernacular
 - AAE     : African Amerian English
 - AAVE    : African American Vernacular English
