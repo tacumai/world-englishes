@@ -33,3 +33,33 @@ Standard Australian Englishは200年以上の歴史がある。というのも19
 - as well asではなくas good asを使う。受験でようやりましたな。
 - 文法的にhave使うとき、発音しにくい場合はhaveの部分をofって言ったりする
 - 可算名詞は few, 不可算名詞は littleを使う
+
+## SAEを使う上で生活する上で気をつけないといけないこと
+- ①ファーストネームを使うシーン  
+SAE話者は基本的に性別や年齢、ステータスを気にしないので相手のことをファーストネームでよぶ。ステータスに差別がないってのはいいよね。土方であろうとも偉い人であろうとも差別はするべきじゃないし、見下すとかもってのほかだよね。でも、国際的・もしくは大学内の教師と生徒の関係出会った場合、教授をファーストネームでよぶことは失礼に値するので気をつけないといけない。
+
+- ②あいさつするとき  
+アメリカでは"How are you doing?"っていったりするけどオーストラリアでは"How are you going?"という。!"How are you?"が質問ではなく、調子を訪ねているのと同じように"How are you going?"は行き方を聞いているのではなくて、挨拶しているだけなので気をつけよう。
+
+
+### Australian Aboriginal Englishについて
+アボリジニの人たちはもともとAboriginal Languageを使ったいたんだけど、英語が入ってきて、だんだんと英語をアボリジニ同士たちのLingafrancaとして使うようになり、自分たち特有の言語を消滅されるほど使わなくなった。まぁでも皮肉にもアボリジニたちが使う英語はAustralian Aboriginal English(AAE)として確立し、発展していった。
+
+## 文法的特徴
+1. Double Subjects  
+主語を二回繰り返す。アフリカ英語とかでもみられる。  
+ex: My mother, she came from down there.  
+
+2. multiple negative marking  
+ex: They didn't give us nothing. = They didn't give us anything.
+
+3. Noun phrase ellipsis（名詞の省略）  
+ex: "We went with Christine, with bus, to get alla wild bananas, and come back Tricking Yard..." 英語だと"We went with Christine by bus to get bananas and we came back to the Tricking Yard..."。ここではweが省略されているのがわかる。
+
+## CAAEという方言
+Kaytetyaという方言に影響されたAAEをCentral Australian Aboriginal English(CAAE)と位置づけ、分類した人がいる。そいつがKochさんです。なんともめんどくさいことをしてくだりましたね。
+
+### CAAEの特徴
+- gether使いがち
+  father-getherはfather and child, mother-getherというとmother and child, brother-getherというとelder and younger brother or sisterという意味になる。
+- 接尾辞に "-em"をつける。 例：callがcallemとなる。
