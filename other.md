@@ -9,6 +9,10 @@
 - 言語：どこの国で使われているかどうか
 - 方言：その国の中で使われている言葉の数々
 
+## 何をもってPidginといえるか？
+- 母国語ではない
+- 複数の言語で構成されている
+
 ## 各varietiesの略称
 - BAV     : Black English Vernacular
 - Ebonics : 黒人英語という意味。特に差別的な用語。
@@ -21,6 +25,7 @@
 - AAVE    : African American Vernacular English
 - ISAE    : Indian South African English
 - BSAE    : Black South African English
+- IE      : Indian English
 
 ## 専門用語
 - IPA : International Phonetic Alphabet
@@ -29,3 +34,5 @@
 - Article : 冠詞(a)
 - Determiner : 決定詞(the)
 - Inflectional endings : 接尾辞
+- diphthong: 二重母音
+- monophthong: 単母音
