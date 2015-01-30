@@ -13,6 +13,17 @@
 - 母国語ではない
 - 複数の言語で構成されている
 
+## イギリス英語とアメリカ英語においての単語の違い
+これね、どっちかだけ覚えとけばいいんじゃないかなー。  
+
+| 意味 | イギリス英語 | アメリカ英語 |
+|:-----------|------------:|:------------:|
+| トランク       | boot |     trunk     |
+| ボンネット     | bonnet | hood |
+| ギア       | gear levers | stick shifts    |
+| スピードメーター         | sppedmater |  oddmater      |
+
+
 ## 各varietiesの略称
 - BAV     : Black English Vernacular
 - Ebonics : 黒人英語という意味。特に差別的な用語。
