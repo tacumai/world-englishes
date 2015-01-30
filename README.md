@@ -15,5 +15,5 @@ https://github.com/tacumai/world-englishes/blob/master/indian_englishes.md
 - アフリカ英語について  
 https://github.com/tacumai/world-englishes/blob/master/african_englishes.md
 
-- その他
+- その他  
 https://github.com/tacumai/world-englishes/blob/master/other.md
